@@ -1,6 +1,6 @@
 # PCI DSS General Patterns and the 12 Requirements Overview
 
-  Payment card industry data security standard
+PCI DSS stands for payment card industry data security standard. Belows are some briefing about the standard.
 
 ## General Patterns:
 
