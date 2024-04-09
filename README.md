@@ -1,5 +1,7 @@
 # PCI DSS General Patterns and the 12 Requirements Overview
 
+  Payment card industry data security standard
+
 ## General Patterns:
 
 - **Documentation and Enforcement**: Across all requirements, there's a consistent emphasis on documenting policies and procedures related to information security and enforcing them effectively.
